@@ -1,8 +1,8 @@
 # IMG-Multimodal-Diffusion-Alignment
 
-This repository is the official Pytorch implementation for [IMG](https://arxiv.org/abs/).
+This repository is the official Pytorch implementation for [IMG](https://arxiv.org/abs/2509.26231) (ICCV 2025).
 
-[![arXiv](https://img.shields.io/badge/arXiv-IMG-b31b1b.svg)](https://arxiv.org/abs/) 
+[![arXiv](https://img.shields.io/badge/arXiv-IMG-b31b1b.svg)](https://arxiv.org/abs/2509.26231) 
 
 > **IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance.**  
 > [Jiayi Guo](https://www.jiayiguo.net)\*,
